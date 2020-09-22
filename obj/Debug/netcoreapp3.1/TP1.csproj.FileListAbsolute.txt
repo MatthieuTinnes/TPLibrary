@@ -1,0 +1,13 @@
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\bin\Debug\netcoreapp3.1\TP1.exe
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\bin\Debug\netcoreapp3.1\TP1.deps.json
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\bin\Debug\netcoreapp3.1\TP1.runtimeconfig.json
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\bin\Debug\netcoreapp3.1\TP1.runtimeconfig.dev.json
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\bin\Debug\netcoreapp3.1\TP1.dll
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\bin\Debug\netcoreapp3.1\TP1.pdb
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\obj\Debug\netcoreapp3.1\TP1.csprojAssemblyReference.cache
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\obj\Debug\netcoreapp3.1\TP1.AssemblyInfoInputs.cache
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\obj\Debug\netcoreapp3.1\TP1.AssemblyInfo.cs
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\obj\Debug\netcoreapp3.1\TP1.csproj.CoreCompileInputs.cache
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\obj\Debug\netcoreapp3.1\TP1.dll
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\obj\Debug\netcoreapp3.1\TP1.pdb
+D:\Users\Matthieu\Documents\VisualStudioProject\TP1\obj\Debug\netcoreapp3.1\TP1.genruntimeconfig.cache
